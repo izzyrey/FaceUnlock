@@ -1,4 +1,4 @@
-# FaceUnlock
+# FaceUnlock Windows 10/11
 
 Реализует `ICredentialProvider` — встраивается в **LogonUI / Secure Desktop**,
 работает на настоящем экране блокировки Windows 10/11.
